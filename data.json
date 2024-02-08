@@ -1,0 +1,40 @@
+{
+  "store": {
+    "name": "Online Supermarket",
+    "categories": [
+      {
+        "name": "Protein",
+        "items": [
+          {"id": 1, "name": "Chicken Breast", "price": 3.99, "quantity": 100},
+          {"id": 2, "name": "Ground Beef", "price": 5.99, "quantity": 80},
+          {"id": 3, "name": "Salmon Fillet", "price": 7.99, "quantity": 50}
+        ]
+      },
+      {
+        "name": "Vegetables",
+        "items": [
+          {"id": 4, "name": "Tomatoes", "price": 1.99, "quantity": 120},
+          {"id": 5, "name": "Spinach", "price": 2.49, "quantity": 90},
+          {"id": 6, "name": "Carrots", "price": 1.29, "quantity": 100}
+        ]
+      },
+      {
+        "name": "Fruits",
+        "items": [
+          {"id": 7, "name": "Apples", "price": 0.99, "quantity": 150},
+          {"id": 8, "name": "Bananas", "price": 0.79, "quantity": 200},
+          {"id": 9, "name": "Oranges", "price": 1.49, "quantity": 100}
+        ]
+      },
+      {
+        "name": "Breads",
+        "items": [
+          {"id": 10, "name": "Whole Wheat Bread", "price": 2.49, "quantity": 80},
+          {"id": 11, "name": "Bagels", "price": 1.99, "quantity": 60},
+          {"id": 12, "name": "French Baguette", "price": 3.49, "quantity": 50}
+        ]
+      }
+    ]
+  }
+}
+
